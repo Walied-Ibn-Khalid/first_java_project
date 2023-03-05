@@ -13,3 +13,4 @@ public class java_playground {
         System.out.println(string + "LAAAAAAAAAAAAAAAAAA");
     }
 }
+// 1
