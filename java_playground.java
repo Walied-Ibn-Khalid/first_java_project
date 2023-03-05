@@ -10,6 +10,6 @@ public class java_playground {
         System.out.println(string);
         System.out.println("how is it workign");
         System.out.println("!!");
-
+        System.out.println(string + "LAAAAAAAAAAAAAAAAAA");
     }
 }
